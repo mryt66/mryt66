@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I’m @mrsofiane
+👋 Hi, I’m @mryt66
 👀 I’m interested in Data Science and Machine learning.
 📫 How to reach me ? @mryt on Linkedin
 
