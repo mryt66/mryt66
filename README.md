@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mryt66
 - 👀 I’m interested in Data Science and Machine learning.
-- 📫 How to reach me ? @mryt on Linkedin
+- 📫 How to reach me? @mryt on Linkedin
 
 <!--
 **mryt66/mryt66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
