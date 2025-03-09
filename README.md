@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 Hi, I’m @mryt66
-- 👀 I’m interested in Data Science and Machine learning.
+- 👀 I’m interested in Data Science and AI engineering.
 - 📫 How to reach me? @mryt on Linkedin
 
 <!--
